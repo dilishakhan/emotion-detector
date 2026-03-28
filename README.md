@@ -86,11 +86,11 @@ Detection Results
 
 [Output1] 
 
-<img width="845" height="669" alt="output1" src="https://github.com/user-attachments/assets/af751ec6-cb6e-4d1e-b808-99f2d4d0f0c2" />
+<img width="500" height="669" alt="output1" src="https://github.com/user-attachments/assets/af751ec6-cb6e-4d1e-b808-99f2d4d0f0c2" />
 
 [Output2] 
 
-<img width="837" height="662" alt="output2" src="https://github.com/user-attachments/assets/1e50cad5-ee98-4632-9d2b-9ee2be755d60" />
+<img width="500" height="662" alt="output2" src="https://github.com/user-attachments/assets/1e50cad5-ee98-4632-9d2b-9ee2be755d60" />
 
 
 Model Architecture:
