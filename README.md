@@ -40,12 +40,16 @@ Run Complete Pipeline
 python run.py
 
 Output:
+
 Accuracy Graph
+
 <img width="955" height="779" alt="accuracy" src="https://github.com/user-attachments/assets/95ab8f3c-d2ba-4966-9939-9139f4e59b78" />
 
 
 Detection Results
+
 [Output1] <img width="845" height="669" alt="output1" src="https://github.com/user-attachments/assets/af751ec6-cb6e-4d1e-b808-99f2d4d0f0c2" />
+
 [Output2] <img width="837" height="662" alt="output2" src="https://github.com/user-attachments/assets/1e50cad5-ee98-4632-9d2b-9ee2be755d60" />
 
 
@@ -62,8 +66,10 @@ Notes:
 -If missing, run training script to generate it
 
 Conclusion:
+
 The system successfully detects human emotions in real-time using deep learning and computer vision techniques.
 
 
 Author:
+
 Dilisha Khan
