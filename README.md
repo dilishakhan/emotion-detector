@@ -1,11 +1,28 @@
 Emotion Detection from Face 
 
 
+Objectives:
+
+To build a deep learning model for emotion classification
+
+To perform real-time emotion detection using webcam
+
+To apply computer vision and machine learning techniques
+
+
 Project Overview:
 
 This project detects human emotions in real-time using facial expressions. It uses a Convolutional Neural Network (CNN) trained on the FER-2013 dataset.
+
 Dataset download link: https://www.kaggle.com/datasets/xavier00/fer2013-facial-expression-recognition-dataset?resource=download
 
+Dataset includes:
+
+Images: ~35,000
+
+Format: Grayscale
+
+Size: 48 × 48 pixels
 
 Features:
 
@@ -76,12 +93,29 @@ Detection Results
 <img width="837" height="662" alt="output2" src="https://github.com/user-attachments/assets/1e50cad5-ee98-4632-9d2b-9ee2be755d60" />
 
 
+Model Architecture:
+-Convolutional Layers (Conv2D)
+
+-MaxPooling Layers
+
+-Dense Layers
+
+-Dropout Layer
+
+
 Technologies Used:
 
 -Python
+
 -TensorFlow / Keras
+
 -OpenCV
--NumPy, Pandas
+
+-NumPy
+
+-Pandas
+
+-Matplotlib
 
 
 Notes:
