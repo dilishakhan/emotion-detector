@@ -1,9 +1,11 @@
 Emotion Detection from Face 
 
+
 Project Overview:
 
 This project detects human emotions in real-time using facial expressions. It uses a Convolutional Neural Network (CNN) trained on the FER-2013 dataset.
 Dataset download link: https://www.kaggle.com/datasets/xavier00/fer2013-facial-expression-recognition-dataset?resource=download
+
 
 Features:
 
@@ -15,17 +17,26 @@ Features:
 
 -Fully executable via command line
 
+
 Emotions Detected:
 
 -Angry
+
 -Disgust
+
 -Fear
+
 -Happy
+
 -Sad
+
 -Surprise
+
 -Neutral
 
+
 Installation:
+
 pip install -r requirements.txt
 
 Command Line Execution:
@@ -45,6 +56,7 @@ python src/detect.py --camera 0
 Run Complete Pipeline
 
 python run.py
+
 
 Output:
 
@@ -71,10 +83,13 @@ Technologies Used:
 -OpenCV
 -NumPy, Pandas
 
+
 Notes:
 
 -Model file is included in `/model`
+
 -If missing, run training script to generate it
+
 
 Conclusion:
 
