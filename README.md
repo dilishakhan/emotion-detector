@@ -8,8 +8,11 @@ Dataset download link: https://www.kaggle.com/datasets/xavier00/fer2013-facial-e
 Features:
 
 -Real-time face detection using OpenCV
+
 -Emotion classification (7 classes)
+
 -CNN-based deep learning model
+
 -Fully executable via command line
 
 Emotions Detected:
@@ -28,15 +31,19 @@ pip install -r requirements.txt
 Command Line Execution:
 
 Step 1: Preprocessing
+
 python src/preprocess.py
 
 Step 2: Training
+
 python src/train.py --epochs 10 --batch_size 64
 
 Step 3: Real-Time Detection
+
 python src/detect.py --camera 0
 
 Run Complete Pipeline
+
 python run.py
 
 Output:
@@ -48,9 +55,13 @@ Accuracy Graph
 
 Detection Results
 
-[Output1] <img width="845" height="669" alt="output1" src="https://github.com/user-attachments/assets/af751ec6-cb6e-4d1e-b808-99f2d4d0f0c2" />
+[Output1] 
 
-[Output2] <img width="837" height="662" alt="output2" src="https://github.com/user-attachments/assets/1e50cad5-ee98-4632-9d2b-9ee2be755d60" />
+<img width="845" height="669" alt="output1" src="https://github.com/user-attachments/assets/af751ec6-cb6e-4d1e-b808-99f2d4d0f0c2" />
+
+[Output2] 
+
+<img width="837" height="662" alt="output2" src="https://github.com/user-attachments/assets/1e50cad5-ee98-4632-9d2b-9ee2be755d60" />
 
 
 Technologies Used:
