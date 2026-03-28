@@ -79,7 +79,7 @@ Output:
 
 Accuracy Graph
 
-<img width="955" height="779" alt="accuracy" src="https://github.com/user-attachments/assets/95ab8f3c-d2ba-4966-9939-9139f4e59b78" />
+<img width="500" height="779" alt="accuracy" src="https://github.com/user-attachments/assets/95ab8f3c-d2ba-4966-9939-9139f4e59b78" />
 
 
 Detection Results
